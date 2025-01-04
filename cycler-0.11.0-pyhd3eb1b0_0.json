@@ -1,0 +1,50 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cycler-0.11.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/cycler-0.11.0.dist-info/INSTALLER",
+    "Lib/site-packages/cycler-0.11.0.dist-info/LICENSE",
+    "Lib/site-packages/cycler-0.11.0.dist-info/METADATA",
+    "Lib/site-packages/cycler-0.11.0.dist-info/RECORD",
+    "Lib/site-packages/cycler-0.11.0.dist-info/REQUESTED",
+    "Lib/site-packages/cycler-0.11.0.dist-info/WHEEL",
+    "Lib/site-packages/cycler-0.11.0.dist-info/direct_url.json",
+    "Lib/site-packages/cycler-0.11.0.dist-info/top_level.txt",
+    "Lib/site-packages/cycler.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/cycler.cpython-312.pyc"
+  ],
+  "fn": "cycler-0.11.0-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cycler-0.11.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "f5e365d2cdb66d547eb8c3ab93843aab",
+  "name": "cycler",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cycler-0.11.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/cycler.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::cycler==0.11.0=pyhd3eb1b0_0[md5=f5e365d2cdb66d547eb8c3ab93843aab]",
+  "sha256": "dda35af3a1f92960aa01fee1e3c3587da67a23f186a09a2c313fc325392216c3",
+  "size": 12570,
+  "subdir": "noarch",
+  "timestamp": 1637851583000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/cycler-0.11.0-pyhd3eb1b0_0.conda",
+  "version": "0.11.0"
+}
